@@ -95,7 +95,6 @@
       <strong>Atributos melhorados</strong><br>
       Trabalho em equipe +40%<br>
       Desempenho +65%<br>
-      Mal humor -34%<br>
       Respostas mais rápidas +56%<br>
       Elogios aos chefes +32%
     </div>
@@ -158,4 +157,4 @@
     });
   </script>
 
-</html>
+
